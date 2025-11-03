@@ -1,0 +1,52 @@
+[
+    {
+        "idDepartamento": 91,
+        "nombreDepartamento": "Amazonas",
+        "municipios": [
+            {
+                "idMunicipio": 91001,
+                "nombreMunicipio": "Leticia"
+            },
+            {
+                "idMunicipio": 91540,
+                "nombreMunicipio": "Puerto Nariño"
+            },
+            {
+                "idMunicipio": 91263,
+                "nombreMunicipio": "El Encanto"
+            },
+            {
+                "idMunicipio": 91405,
+                "nombreMunicipio": "La Chorrera"
+            },
+            {
+                "idMunicipio": 91407,
+                "nombreMunicipio": "La Pedrera"
+            },
+            {
+                "idMunicipio": 91430,
+                "nombreMunicipio": "La Victoria"
+            },
+            {
+                "idMunicipio": 91460,
+                "nombreMunicipio": "Mirití-Paraná"
+            },
+            {
+                "idMunicipio": 91530,
+                "nombreMunicipio": "Puerto Alegría"
+            },
+            {
+                "idMunicipio": 91536,
+                "nombreMunicipio": "Puerto Arica"
+            },
+            {
+                "idMunicipio": 91669,
+                "nombreMunicipio": "Puerto Santander"
+            },
+            {
+                "idMunicipio": 91798,
+                "nombreMunicipio": "Tarapacá"
+            }
+        ]
+    }
+]
